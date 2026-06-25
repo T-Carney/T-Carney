@@ -17,7 +17,7 @@ with hands-on work.
 
 | Project | Focus | Maps To |
 |---------|-------|---------|
-| [Home SOC Lab](#) | Lab build & architecture | Foundation |
+| [Home SOC Lab](https://github.com/T-Carney/home-soc-lab.git) | Lab build & architecture | Foundation |
 | [AD + RBAC + PKI](#) | Identity & access, crypto | Security+ |
 | [SIEM Detection Lab](#) | Log analysis, MITRE ATT&CK | CySA+ |
 | [Sentinel + KQL](#) | Cloud detection, M365 security | SC-200 |
